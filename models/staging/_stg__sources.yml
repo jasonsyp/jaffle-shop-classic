@@ -1,0 +1,8 @@
+sources:
+- name:  jaffle_shop
+  database:  JAFFLE_SHOP
+  schema:  RAW
+  tables:
+    - name:  raw_customers
+    - name:  raw_orders
+    - name:  raw_payments
